@@ -1,7 +1,7 @@
 n=int(input())
 a=str(n)
-k=a[::-1]
-s=int(k)
+d=a[::-1]
+s=int(d)
 if s==n:
     print('True')
 else:
